@@ -1,0 +1,10 @@
+{
+    "id": "veriatro",
+    "name": "Veriatro",
+    "author": ["bat"],
+    "description": "Changes the name of Smiley Face to Verity",
+    "prefix": "veriatro",
+    "main_file": "main.lua",
+    "version": "1.0.0",
+    "dependencies": ["Steamodded"]
+}
