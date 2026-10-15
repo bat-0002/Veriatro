@@ -2,7 +2,7 @@
     "id": "veriatro",
     "name": "Veriatro",
     "author": ["bat"],
-    "description": "Changes the name of Smiley Face to Verity",
+    "description": "Changes the name of the Smiley Face joker to Verity",
     "prefix": "veriatro",
     "main_file": "main.lua",
     "version": "1.0.0",
